@@ -35,4 +35,4 @@ I have a couple notes that I will be implementing in the future
  	- this includes randomizing numbers of puzzle to solve (this may be hardest part of v2 implementation)
  - auto-solve buttom
  	- learn and utilize backtracking algorithm
-  - ["link" (https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)]
+  - [Link here:](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)
