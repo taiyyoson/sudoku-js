@@ -34,5 +34,5 @@ I have a couple notes that I will be implementing in the future
  - different difficulties
  	- this includes randomizing numbers of puzzle to solve (this may be hardest part of v2 implementation)
  - auto-solve buttom
- 	- learn and utilize backtracking algorithm
-  - [Link here:](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)
+ 	- learn and utilize backtracking algorithm; [Link here:](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)
+ - auto-checking feature INSTEAD of auto errors
